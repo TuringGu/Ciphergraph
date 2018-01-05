@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "DES", "DES\DES.vcxproj", "{BED831D8-D1C1-47B5-96C4-F990166D0600}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BED831D8-D1C1-47B5-96C4-F990166D0600}.Debug|x64.ActiveCfg = Debug|x64
+		{BED831D8-D1C1-47B5-96C4-F990166D0600}.Debug|x64.Build.0 = Debug|x64
+		{BED831D8-D1C1-47B5-96C4-F990166D0600}.Debug|x86.ActiveCfg = Debug|Win32
+		{BED831D8-D1C1-47B5-96C4-F990166D0600}.Debug|x86.Build.0 = Debug|Win32
+		{BED831D8-D1C1-47B5-96C4-F990166D0600}.Release|x64.ActiveCfg = Release|x64
+		{BED831D8-D1C1-47B5-96C4-F990166D0600}.Release|x64.Build.0 = Release|x64
+		{BED831D8-D1C1-47B5-96C4-F990166D0600}.Release|x86.ActiveCfg = Release|Win32
+		{BED831D8-D1C1-47B5-96C4-F990166D0600}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {12135830-CD4D-4E23-B23D-EFCDE9CF0541}
+	EndGlobalSection
+EndGlobal
